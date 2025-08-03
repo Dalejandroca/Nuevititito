@@ -1,0 +1,112 @@
+{
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 16:52:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 16:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-03 16:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "field": "2025-08-03 16:51:39 +0000",
+      "ominous_woods": "2025-08-03 16:51:54 +0000"
+    },
+    "done": false
+  },
+  "onlyhammers:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "has_oak_log": "2025-08-03 16:52:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-03 16:52:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "field": "2025-08-03 16:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 16:52:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
