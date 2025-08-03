@@ -1651,3 +1651,35 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [03Aug2025 17:24:58.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> tienes una de telaraña?
 [03Aug2025 17:25:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ESO
 [03Aug2025 17:25:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> hell yeaaaa
+[03Aug2025 17:26:28.750] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 17:26:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> viste el mod de los biomas
+[03Aug2025 17:27:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> si ppa el oplenty esta dp
+[03Aug2025 17:27:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> super duro
+[03Aug2025 17:28:34.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Not Today, Thank You]
+[03Aug2025 17:31:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estan conectados?
+[03Aug2025 17:31:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> no
+[03Aug2025 17:31:23.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[03Aug2025 17:31:28.749] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 17:31:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ohh los yabo me hablan
+[03Aug2025 17:31:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> diego baja
+[03Aug2025 17:32:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] salgan un momento para meter 2 mods rapidito, el de los cuerpos para que no pierdan sus cosas y uno para revivirse
+[03Aug2025 17:32:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> perfec
+[03Aug2025 17:32:17.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ok bb
+[03Aug2025 17:32:19.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[03Aug2025 17:32:19.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[03Aug2025 17:32:19.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[03Aug2025 17:32:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[03Aug2025 17:32:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :)
+[03Aug2025 17:32:36.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Aug2025 17:32:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 17:32:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 17:32:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2025 17:32:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2025 17:32:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2025 17:32:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2025 17:32:36.929] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 17:32:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2025 17:32:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2025 17:32:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2025 17:32:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2025 17:32:36.962] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

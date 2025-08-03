@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-03 17:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-03 16:54:51 +0000"
@@ -80,6 +86,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-03 17:07:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 17:28:56 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-03 16:53:58 +0000"
@@ -242,6 +260,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-03 17:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
     },
     "done": true
   },
@@ -348,6 +372,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-03 17:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-03 16:51:32 +0000"
@@ -387,6 +423,12 @@
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-03 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
     },
     "done": true
   },
@@ -543,6 +585,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-03 16:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-08-03 17:22:28 +0000"
     },
     "done": true
   },
@@ -714,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-03 17:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-03 16:53:58 +0000"
@@ -747,6 +801,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-08-03 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
     },
     "done": true
   },
@@ -840,16 +900,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 17:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2025-08-03 17:14:40 +0000",
-      "rotten_flesh": "2025-08-03 17:13:37 +0000"
+      "rotten_flesh": "2025-08-03 17:13:37 +0000",
+      "cooked_beef": "2025-08-03 17:27:27 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-03 16:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 17:28:56 +0000"
     },
     "done": true
   },
@@ -868,6 +941,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-03 16:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-08-03 17:24:12 +0000"
     },
     "done": true
   },
