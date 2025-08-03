@@ -250,3 +250,23 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [03Aug2025 05:04:07.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> DAVID COMO ABRO EL MAPA
 [03Aug2025 05:04:12.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> J
 [03Aug2025 05:04:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ju
+[03Aug2025 05:11:40.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was shot by morax
+[03Aug2025 05:13:29.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! 3.419543730885266,-9.420267225097092,0.8375983471562449
+[03Aug2025 05:16:12.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [A Throwaway Joke]
+[03Aug2025 05:22:59.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Best Friends Forever]
+[03Aug2025 05:24:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Best Friends Forever]
+[03Aug2025 05:25:03.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> e e etañena
+[03Aug2025 05:25:56.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:48.721] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:58.402] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:58.948] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:58.949] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:58.949] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:58.949] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:26:59.563] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:29:17.913] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 05:29:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> davi duerme
+[03Aug2025 05:29:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Sweet Dreams]
+[03Aug2025 05:29:47.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Sweet Dreams]
+[03Aug2025 05:30:22.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [The Parrots and the Bats]
+[03Aug2025 05:34:25.213] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
