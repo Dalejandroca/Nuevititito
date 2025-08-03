@@ -1653,3 +1653,8 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [03Aug2025 04:56:56.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Diamonds!]
 [03Aug2025 04:56:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was impaled on a stalagmite
 [03Aug2025 05:00:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Take Aim]
+[03Aug2025 05:01:30.263] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 05:04:07.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> DAVID COMO ABRO EL MAPA
+[03Aug2025 05:04:12.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> J
+[03Aug2025 05:04:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ju
+[03Aug2025 05:06:30.258] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
