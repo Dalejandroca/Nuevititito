@@ -313,3 +313,139 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [03Aug2025 05:54:25.708] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [03Aug2025 05:54:25.709] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [03Aug2025 05:54:42.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Suit Up]
+[03Aug2025 06:01:50.729] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:50.729] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:51.959] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:51.959] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:54.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:54.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:01:54.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:04:29.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no se pueden metir imagenes de afuera?
+[03Aug2025 06:04:32.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ;(
+[03Aug2025 06:04:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[03Aug2025 06:04:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> necesitas la camara y papel
+[03Aug2025 06:04:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> CHIKEN JOKEY
+[03Aug2025 06:04:56.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> XDDD
+[03Aug2025 06:04:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[03Aug2025 06:05:03.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tienes redstone?
+[03Aug2025 06:05:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> demasiada
+[03Aug2025 06:05:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> te ayudo
+[03Aug2025 06:05:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dame un stacksito
+[03Aug2025 06:05:23.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> casi un stack de bloques
+[03Aug2025 06:05:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo maricon
+[03Aug2025 06:05:50.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pinga la caña
+[03Aug2025 06:06:04.711] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:06:14.208] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03Aug2025 06:06:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me voy
+[03Aug2025 06:06:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [What a Deal!]
+[03Aug2025 06:06:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> okis bb
+[03Aug2025 06:06:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy a buscar una montana
+[03Aug2025 06:06:43.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> busca a hanna
+[03Aug2025 06:12:33.899] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=0, stateId=2501, slotNum=40, buttonNum=0, clickType=QUICK_MOVE, changedSlots={40=><empty>, 13=>ActualItem[item=Reference{ResourceKey[minecraft:item / camera:camera]=camera:camera}, count=1, components=HashedPatchMap[addedComponents={camera:active=-1}, removedComponents=[]]]}, carriedItem=<empty>], suppressing error
+com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2085) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:4017) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4040) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4989) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4996) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedPatchMap.matches(HashedPatchMap.java:55) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedStack$ActualItem.matches(HashedStack.java:51) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.RemoteSlot$Synchronized.matches(RemoteSlot.java:70) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.synchronizeSlotToRemote(AbstractContainerMenu.java:258) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:205) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1851) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.lambda$load$0(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23117!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:266) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3574) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2316) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2189) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2079) ~[guava-33.3.1-jre.jar%2398!/:?]
+	... 27 more
+[03Aug2025 06:12:33.945] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1086) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:955) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:715) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2085) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:4017) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4040) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4989) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4996) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedPatchMap.matches(HashedPatchMap.java:55) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedStack$ActualItem.matches(HashedStack.java:51) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.RemoteSlot$Synchronized.matches(RemoteSlot.java:70) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.synchronizeSlotToRemote(AbstractContainerMenu.java:258) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:205) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:625) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:770) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.Level.guardEntityTick(Level.java:582) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:410) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:390) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1082) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	... 4 more
+Caused by: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.lambda$load$0(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23117!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:266) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3574) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2316) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2189) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2079) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:4017) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4040) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4989) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4996) ~[guava-33.3.1-jre.jar%2398!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedPatchMap.matches(HashedPatchMap.java:55) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedStack$ActualItem.matches(HashedStack.java:51) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.RemoteSlot$Synchronized.matches(RemoteSlot.java:70) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.synchronizeSlotToRemote(AbstractContainerMenu.java:258) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:205) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:625) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:770) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.Level.guardEntityTick(Level.java:582) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:410) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:390) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1082) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?]
+	... 4 more
+[03Aug2025 06:12:33.956] [Server thread/FATAL] [net.neoforged.neoforge.common.NeoForgeMod/]: Preparing crash report with UUID d71c999a-9a5a-4dff-9709-8e9a964a6db3
+[03Aug2025 06:12:33.957] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/Nuevititito/servidor_minecraft/crash-reports/crash-2025-08-03_06.12.33-server.txt
+[03Aug2025 06:12:33.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 06:12:33.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 06:12:33.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Server closed
+[03Aug2025 06:12:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[03Aug2025 06:12:33.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Server closed
+[03Aug2025 06:12:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[03Aug2025 06:12:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2025 06:12:35.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2025 06:12:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2025 06:12:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2025 06:12:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2025 06:12:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2025 06:12:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2025 06:12:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
