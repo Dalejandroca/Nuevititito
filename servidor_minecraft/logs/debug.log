@@ -1582,3 +1582,22 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [03Aug2025 16:55:01.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [03Aug2025 16:55:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [03Aug2025 16:55:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo has made the advancement [Getting an Upgrade]
+[03Aug2025 16:56:28.757] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 17:00:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo was slain by Spider
+[03Aug2025 17:01:28.751] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[03Aug2025 17:02:25.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Stone Age]
+[03Aug2025 17:02:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> tu jugaste ayer?
+[03Aug2025 17:02:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> no me quede dormido
+[03Aug2025 17:03:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo was shot by Skeleton
+[03Aug2025 17:03:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Getting an Upgrade]
+[03Aug2025 17:03:21.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Monster Hunter]
+[03Aug2025 17:04:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> durisimo
+[03Aug2025 17:04:41.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> asere que estable va comparado con el otro server
+[03Aug2025 17:05:10.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Timed out
+[03Aug2025 17:05:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[03Aug2025 17:05:21.609] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1e6da70d into net.minecraft.network.Connection@3e5117ca
+[03Aug2025 17:05:23.803] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1fc4c47f into net.minecraft.network.Connection@3e5117ca
+[03Aug2025 17:05:23.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.20.163.37:57813] logged in with entity id 5977 at (43.32685641113542, 30.0, 184.94140558939557)
+[03Aug2025 17:05:23.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [stonecutting, smelting, blasting, crafting, smoking, campfire_cooking, smithing]
+[03Aug2025 17:05:23.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[03Aug2025 17:05:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> si ppa esta batante mejor
