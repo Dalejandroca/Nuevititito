@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-03 04:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-03 04:21:25 +0000"
@@ -419,6 +425,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:breeze": "2025-08-03 04:44:34 +0000",
+      "minecraft:enderman": "2025-08-03 04:52:14 +0000",
       "minecraft:spider": "2025-08-03 04:20:09 +0000",
       "minecraft:zombie": "2025-08-03 04:18:54 +0000",
       "minecraft:bogged": "2025-08-03 04:32:21 +0000"
@@ -578,6 +585,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-08-03 04:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-08-03 04:53:25 +0000"
     },
     "done": true
   },
@@ -860,6 +873,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-08-03 04:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-08-03 04:53:25 +0000"
     },
     "done": true
   },
@@ -1282,7 +1301,8 @@
       "cooked_porkchop": "2025-08-03 04:24:51 +0000",
       "bread": "2025-08-03 04:43:34 +0000",
       "cooked_chicken": "2025-08-03 04:46:29 +0000",
-      "baked_potato": "2025-08-03 04:30:57 +0000"
+      "baked_potato": "2025-08-03 04:30:57 +0000",
+      "golden_carrot": "2025-08-03 04:50:40 +0000"
     },
     "done": false
   },

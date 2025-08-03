@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-03 04:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-03 04:14:38 +0000"
@@ -433,6 +439,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-03 04:25:18 +0000",
+      "minecraft:breeze": "2025-08-03 04:52:54 +0000",
+      "minecraft:enderman": "2025-08-03 04:52:01 +0000",
       "minecraft:spider": "2025-08-03 04:29:08 +0000",
       "minecraft:zombie": "2025-08-03 04:24:58 +0000",
       "minecraft:bogged": "2025-08-03 04:34:47 +0000"
