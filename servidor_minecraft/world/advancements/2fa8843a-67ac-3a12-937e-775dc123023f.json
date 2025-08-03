@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-03 05:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-08-03 04:27:55 +0000"
@@ -523,6 +529,7 @@
       "minecraft:enderman": "2025-08-03 04:52:14 +0000",
       "minecraft:spider": "2025-08-03 04:20:09 +0000",
       "minecraft:zombie": "2025-08-03 04:18:54 +0000",
+      "minecraft:creeper": "2025-08-03 05:46:54 +0000",
       "minecraft:bogged": "2025-08-03 04:32:21 +0000"
     },
     "done": false
@@ -1373,6 +1380,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 05:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-03 04:23:57 +0000"
@@ -1505,6 +1518,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-03 05:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 04:18:19 +0000"
@@ -1622,6 +1641,12 @@
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-03 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 05:47:02 +0000"
     },
     "done": true
   },
