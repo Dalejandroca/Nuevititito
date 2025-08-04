@@ -2800,9 +2800,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-08-04 04:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-08-04 04:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-04 04:46:28 +0000"
     },
     "done": true
   },

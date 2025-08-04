@@ -1749,3 +1749,27 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 04:43:54.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> gracias
 [04Aug2025 04:45:21.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 10.013582264127692,0.0,-1.1417420567278214
 [04Aug2025 04:45:48.787] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:48:03.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa dale al tab y mira mi conexion
+[04Aug2025 04:48:08.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> plp
+[04Aug2025 04:48:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -10.01072673538252,-0.02442408821369213,0.7421413598888194
+[04Aug2025 04:50:00.644] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:00.644] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:00.644] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:00.644] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:00.645] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:01.543] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:01.544] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:01.544] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:01.544] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:01.544] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:50:48.783] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:52:55.143] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:52:55.143] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:52:55.144] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:52:55.144] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:52:55.144] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:53:14.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> otia
+[04Aug2025 04:54:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cierrala
+[04Aug2025 04:55:36.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[04Aug2025 04:55:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el lag me va a matar
+[04Aug2025 04:55:48.786] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
