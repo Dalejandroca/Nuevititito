@@ -1683,3 +1683,52 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 04:20:48.831] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [04Aug2025 04:24:17.049] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 04:24:19.949] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:25:48.798] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:26:33.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 4.303128120613536,2.176759275064242,-9.013108762012791
+[04Aug2025 04:26:37.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax was kicked for floating too long!
+[04Aug2025 04:26:37.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Flying is not enabled on this server
+[04Aug2025 04:26:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[04Aug2025 04:26:54.125] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@17cf7251 into net.minecraft.network.Connection@2153f841
+[04Aug2025 04:26:56.932] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2301d554 into net.minecraft.network.Connection@2153f841
+[04Aug2025 04:26:57.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.131.207.155:49079] logged in with entity id 6418 at (183.4789316487277, 100.25220334025373, 347.00870309838393)
+[04Aug2025 04:26:57.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, smelting, crafting, campfire_cooking, smoking, stonecutting]
+[04Aug2025 04:26:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[04Aug2025 04:26:57.055] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:26:57.055] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:26:57.056] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:26:57.056] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:26:57.056] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:27:07.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por dios
+[04Aug2025 04:27:19.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tan mala conexion tienes?
+[04Aug2025 04:27:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes algun disco?
+[04Aug2025 04:27:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no
+[04Aug2025 04:27:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya me preguntaba de donde era la musica xd
+[04Aug2025 04:27:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo una bocina en la mochila
+[04Aug2025 04:29:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tienes slime?
+[04Aug2025 04:29:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> te amo :))))))))))))))))))
+[04Aug2025 04:29:49.645] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:30:27.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[04Aug2025 04:30:27.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[04Aug2025 04:30:48.775] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:30:57.839] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@207b76a3 into net.minecraft.network.Connection@31012481
+[04Aug2025 04:31:01.070] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@208e970b into net.minecraft.network.Connection@31012481
+[04Aug2025 04:31:01.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.131.207.155:40357] logged in with entity id 6942 at (174.9201192343473, 97.0, 302.8507108808454)
+[04Aug2025 04:31:01.101] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, smelting, crafting, campfire_cooking, smoking, stonecutting]
+[04Aug2025 04:31:01.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[04Aug2025 04:31:01.127] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:31:01.127] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:31:01.127] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:31:01.128] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:31:01.128] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:31:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> comprame el de conductividad plis
+[04Aug2025 04:31:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tienes un libro normal ?
+[04Aug2025 04:32:26.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ahora solo me falta el de lealtad
+[04Aug2025 04:32:39.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> creo que tengo un libro de lealtad
+[04Aug2025 04:32:49.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> en la casa
+[04Aug2025 04:32:53.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cen
+[04Aug2025 04:32:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ven*
+[04Aug2025 04:34:39.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me dicen poseidon
+[04Aug2025 04:34:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xd
+[04Aug2025 04:35:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q es eso
+[04Aug2025 04:35:31.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> es para las brujulas
+[04Aug2025 04:35:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ?
