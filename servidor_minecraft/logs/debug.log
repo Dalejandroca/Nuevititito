@@ -1773,3 +1773,34 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 04:55:36.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
 [04Aug2025 04:55:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el lag me va a matar
 [04Aug2025 04:55:48.786] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:59:52.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[04Aug2025 05:00:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ahora si
+[04Aug2025 05:00:45.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> igual te recomiendo poner una puerta
+[04Aug2025 05:00:48.787] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:00:58.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si los bichos te siguen abren facil
+[04Aug2025 05:03:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> grax
+[04Aug2025 05:03:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eduardo
+[04Aug2025 05:03:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diem
+[04Aug2025 05:03:32.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> antes que te vallas
+[04Aug2025 05:03:44.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tienes brotes de abeto normal?
+[04Aug2025 05:03:54.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nop
+[04Aug2025 05:03:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> el del minecraft vanilla
+[04Aug2025 05:04:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero los tienes aqui
+[04Aug2025 05:04:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[04Aug2025 05:04:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me acabo de dar cuenta xddd
+[04Aug2025 05:04:53.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> davi
+[04Aug2025 05:04:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dime
+[04Aug2025 05:05:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira para aca
+[04Aug2025 05:05:33.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[04Aug2025 05:05:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[04Aug2025 05:05:48.785] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:05:58.779] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@719f0ed8 into net.minecraft.network.Connection@6ba1f462
+[04Aug2025 05:06:01.504] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@aef25e2 into net.minecraft.network.Connection@6ba1f462
+[04Aug2025 05:06:01.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.118.52.50:52155] logged in with entity id 12948 at (94.8231013604557, 68.00000056500205, 587.1145448762875)
+[04Aug2025 05:06:01.543] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, smelting, crafting, campfire_cooking, smoking, stonecutting]
+[04Aug2025 05:06:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[04Aug2025 05:06:01.568] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:06:01.569] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:06:01.569] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:06:01.569] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:06:01.570] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
