@@ -1804,3 +1804,16 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 05:06:01.569] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 05:06:01.569] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 05:06:01.570] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:07:24.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> baaaf
+[04Aug2025 05:07:26.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me vine
+[04Aug2025 05:08:11.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> las voy a tener todas en la pared
+[04Aug2025 05:08:40.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> un museo con las fotos
+[04Aug2025 05:09:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> se me habia olvidado la tierra fea esta :(((((((((((
+[04Aug2025 05:10:48.781] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:11:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no tienes la mesa de herreria?
+[04Aug2025 05:11:29.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> nop
+[04Aug2025 05:12:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Crafting a New Look]
+[04Aug2025 05:13:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> este tiene mas hojas
+[04Aug2025 05:15:13.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> igual crece la tierra
+[04Aug2025 05:15:48.785] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:15:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> has q quede como flotando
