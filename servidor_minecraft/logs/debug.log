@@ -1664,3 +1664,22 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 04:13:16.281] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 04:13:46.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
 [04Aug2025 04:13:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[04Aug2025 04:15:48.784] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:16:28.547] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@aa4c22d[id=ba90b352-0046-3a15-868f-6c2e8cd363f8,name=morax,properties={}] lost connection: Timed out
+[04Aug2025 04:17:50.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: morax (/127.71.192.180:43125) lost connection: Disconnected
+[04Aug2025 04:19:14.050] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5ad6e5a8 into net.minecraft.network.Connection@75d423d4
+[04Aug2025 04:19:16.874] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@340a91a6 into net.minecraft.network.Connection@75d423d4
+[04Aug2025 04:19:16.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.118.52.50:59021] logged in with entity id 3500 at (495.99943151771276, 77.0, 877.7046225311383)
+[04Aug2025 04:19:16.899] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, smelting, crafting, campfire_cooking, smoking, stonecutting]
+[04Aug2025 04:19:16.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[04Aug2025 04:19:16.972] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:19:16.972] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:19:16.972] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:19:16.973] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:19:16.974] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:19:34.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> POR DIOS Q LE PASA A MI CONEXION
+[04Aug2025 04:19:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xd
+[04Aug2025 04:19:52.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -9.26308191288257,-2.203264399331289,-3.355118190855933
+[04Aug2025 04:20:48.831] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:24:17.049] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 04:24:19.949] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
