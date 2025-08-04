@@ -1732,3 +1732,20 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 04:35:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q es eso
 [04Aug2025 04:35:31.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> es para las brujulas
 [04Aug2025 04:35:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ?
+[04Aug2025 04:35:48.814] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:35:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si con una brujula le das click derecho marcara esa ubicacion
+[04Aug2025 04:35:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> AHHH
+[04Aug2025 04:36:02.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> waos
+[04Aug2025 04:36:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> seh
+[04Aug2025 04:36:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> necesitaba el slime par hacer una puerta con pistones
+[04Aug2025 04:36:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> en la trial chamber hay
+[04Aug2025 04:37:22.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cuando fui no me aparecio ni uno
+[04Aug2025 04:37:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes pociones de mal persagio?
+[04Aug2025 04:37:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ojala
+[04Aug2025 04:38:00.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo tengo 2
+[04Aug2025 04:40:48.799] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 04:43:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[04Aug2025 04:43:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tenia 3
+[04Aug2025 04:43:54.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> gracias
+[04Aug2025 04:45:21.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 10.013582264127692,0.0,-1.1417420567278214
+[04Aug2025 04:45:48.787] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
