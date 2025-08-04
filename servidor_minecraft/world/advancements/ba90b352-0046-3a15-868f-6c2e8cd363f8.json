@@ -9,14 +9,22 @@
     "criteria": {
       "spider_nest": "2025-08-03 08:15:36 +0000",
       "forested_field": "2025-08-03 11:15:17 +0000",
+      "mystic_grove": "2025-08-03 22:23:50 +0000",
+      "shrubland": "2025-08-03 22:24:35 +0000",
       "maple_woods": "2025-08-03 04:05:25 +0000",
+      "rocky_shrubland": "2025-08-03 22:24:03 +0000",
+      "crystalline_chasm": "2025-08-03 21:45:09 +0000",
       "pumpkin_patch": "2025-08-03 04:18:25 +0000",
       "visceral_heap": "2025-08-03 09:07:10 +0000",
+      "grassland": "2025-08-03 22:30:38 +0000",
       "snowy_coniferous_forest": "2025-08-03 05:24:10 +0000",
+      "snowy_fir_clearing": "2025-08-03 22:43:15 +0000",
       "glowing_grotto": "2025-08-03 04:28:27 +0000",
       "field": "2025-08-03 04:02:11 +0000",
       "undergrowth": "2025-08-03 08:46:46 +0000",
+      "overgrown_greens": "2025-08-03 22:27:02 +0000",
       "seasonal_forest": "2025-08-03 04:21:23 +0000",
+      "auroral_garden": "2025-08-03 22:41:11 +0000",
       "highland": "2025-08-03 05:21:13 +0000",
       "dead_forest": "2025-08-03 05:25:27 +0000",
       "snowy_maple_woods": "2025-08-03 05:22:24 +0000",
@@ -848,8 +856,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-03 22:26:23 +0000",
       "minecraft:frozen_river": "2025-08-03 06:49:51 +0000",
-      "minecraft:river": "2025-08-03 04:20:38 +0000"
+      "minecraft:forest": "2025-08-03 22:38:51 +0000",
+      "minecraft:taiga": "2025-08-03 22:16:42 +0000",
+      "minecraft:river": "2025-08-03 04:20:38 +0000",
+      "minecraft:swamp": "2025-08-03 22:13:23 +0000",
+      "minecraft:stony_shore": "2025-08-03 22:30:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-03 22:25:38 +0000",
+      "minecraft:snowy_taiga": "2025-08-03 22:42:45 +0000"
     },
     "done": false
   },
@@ -876,6 +891,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-03 22:32:31 +0000",
       "minecraft:skeleton": "2025-08-03 04:25:18 +0000",
       "minecraft:piglin": "2025-08-03 09:21:56 +0000",
       "minecraft:breeze": "2025-08-03 04:52:54 +0000",
@@ -3514,27 +3530,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/white_bundle": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_white_dye": "2025-08-03 13:06:09 +0000"
+      "has_raw_copper": "2025-08-03 10:54:22 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_stripped_logs": "2025-08-03 13:12:57 +0000"
+      "has_raw_copper": "2025-08-03 10:54:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_raw_gold": "2025-08-03 11:10:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-08-03 11:41:49 +0000"
+      "has_raw_copper": "2025-08-03 10:54:22 +0000"
     },
     "done": true
   },
@@ -3544,21 +3554,93 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_log": "2025-08-03 13:12:57 +0000"
+      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-03 11:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-03 11:10:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_the_recipe": "2025-08-03 11:22:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-03 11:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-03 11:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-03 11:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-03 11:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-08-03 11:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-08-03 11:47:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-08-03 11:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-08-03 13:06:09 +0000"
     },
     "done": true
   },
@@ -3574,117 +3656,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 13:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/red_maple_leaf_litter": {
-    "criteria": {
-      "has_red_maple_leaves": "2025-08-03 11:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-03 11:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-03 13:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-03 10:54:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-03 10:54:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-08-03 11:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leaf_litter": {
-    "criteria": {
-      "has_leaves": "2025-08-03 11:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-03 11:10:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2025-08-03 12:57:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-03 13:06:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_the_recipe": "2025-08-03 11:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 13:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-08-03 11:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 13:06:09 +0000"
     },
     "done": true
   },
@@ -3694,39 +3668,387 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/red_maple_leaf_litter": {
+    "criteria": {
+      "has_red_maple_leaves": "2025-08-03 11:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-08-03 11:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2025-08-03 12:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 13:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-03 13:06:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_tall_white_lavender": {
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
     "criteria": {
-      "has_tall_white_lavender": "2025-08-03 11:47:31 +0000"
+      "has_stripped_logs": "2025-08-03 13:12:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-03 10:55:23 +0000"
+      "has_log": "2025-08-03 13:12:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_white_lavender": {
+  "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
-      "has_white_lavender": "2025-08-03 11:47:34 +0000"
+      "allay_deliver_item_to_player": "2025-08-03 22:33:42 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_copper_backpack": "2025-08-03 11:31:43 +0000"
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "has_raw_copper": "2025-08-03 10:54:22 +0000"
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-03 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-08-03 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-03 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-03 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-03 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-03 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-03 21:20:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-08-03 22:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-03 22:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-03 21:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-03 21:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-03 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 22:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-03 21:17:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-03 22:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-03 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-03 21:17:48 +0000"
     },
     "done": true
   },
